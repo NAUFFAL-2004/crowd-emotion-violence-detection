@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv311/
+
+# VS Code
+.vscode/
+
+# Data (optional – if you don't want to upload full datasets)
+data/
+
+# Model checkpoints (optional – comment out if you want to push .h5)
+# models/
